@@ -3,7 +3,7 @@
 
 ####  Table of Content
   * [Overview](#overview)
-  *  [Architecture Details ](#architecure)
+  * [Architecture](#architecture)
   
 
 ### Overview 
@@ -15,7 +15,7 @@ Once they do so, we're then going to display the posts they just created down he
 the screen. That would be the post that was just created. We'll show the title, the post will show the number of comments it was associated with it, and we'll also have a little forum right here to add some comments to that individual post.
 ![application with posts and comments ](https://raw.githubusercontent.com/ditikrushna/A-Mini-Microsrevice-App/main/assets/full%20images.png)
 
-### Architecture Details 
+### Architecture
 
 I have built the back-end of this project on microservice architecture where we have majorly four components and those are the following:  
 - Post Service 
