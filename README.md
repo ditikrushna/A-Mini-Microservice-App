@@ -17,7 +17,7 @@ the screen. That would be the post that was just created. We'll show the title, 
 
 ### Architecture
 
-I have built the back-end of this project on microservice architecture where we have majorly four components and those are the following:  
+I have built the back-end on microservice architecture where we have majorly four components and those are the following:  
 - Post Service 
 - Comment Service 
 - Query Service
