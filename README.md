@@ -20,7 +20,8 @@ the screen. That would be the post that was just created. We'll show the title, 
 I have built the back-end of this project on microservice architecture where we have majorly four components and those are the following:  
 - Post Service 
 - Comment Service 
-- Query Service   
+- Query Service
+- Moderation Service
 - Event Bus 
 
 **Post Service :** 
